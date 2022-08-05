@@ -1,4 +1,4 @@
-PAGE D'ACCUEIL GOOGLE
+# PAGE D'ACCUEIL GOOGLE
 
 Hurray ! Après les succès des projets de design de ton groupe, un entrepreneur plein d'avenir est venu vers vous pour vous pitcher son concept d'entreprise : une page très simple avec un formulaire où les utilisateurs pourront faire une recherche qui trouvera sur le net les sites qui la mentionnent. Comme vous sentez quelque chose de révolutionnaire dans cette idée, vous êtes bien chauds pour en réaliser la page d'accueil.
 
